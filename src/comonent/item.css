@@ -1,0 +1,16 @@
+.class1:nth-of-type(even){
+background-color: aqua;
+color:#fff;
+}
+
+.class1:nth-of-type(odd){
+background-color: rosybrown;
+color:#fff;
+}
+
+.class1{
+    width:80%;
+    padding: 10px;
+    border: 1px solid #fff;
+    margin: 15px auto;
+}
